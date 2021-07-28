@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{7ADC17D6-137E-491E-87C8-A89D758181D2}|Default">
+  <MonoDevelop.Ide.ItemProperties.WebAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebAPI/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="WebAPI/Controllers/AdminController.cs" Line="26" Column="42" />
+      <File FileName="WebAPI/Controllers/ProductController.cs" />
+      <File FileName="WebAPI/Controllers/CategoryController.cs" />
+      <File FileName="WebAPI/Controllers/PaymentMethodController.cs" />
+      <File FileName="WebAPI/Models/Products.cs" />
+      <File FileName="WebAPI/Controllers/HomeController.cs" Line="46" Column="24" />
+      <File FileName="WebAPI/Controllers/OrderController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebAPI" expanded="True">
+            <Node name="WebAPI" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders>
+    <String>/Users/xuanvu/Documents/NET CORE</String>
+  </Debugger.DebugSourceFolders>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
